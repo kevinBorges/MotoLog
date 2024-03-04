@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotoLog.Business", "src\Mot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotoLog.Data", "src\MotoLog.Data\MotoLog.Data.csproj", "{0351E37F-EEBE-40B0-9C99-D87947E90FF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoLog.App", "src\MotoLog.App\MotoLog.App.csproj", "{8E62B481-2627-430E-85F3-463D24FD8A09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0351E37F-EEBE-40B0-9C99-D87947E90FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0351E37F-EEBE-40B0-9C99-D87947E90FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0351E37F-EEBE-40B0-9C99-D87947E90FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E62B481-2627-430E-85F3-463D24FD8A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E62B481-2627-430E-85F3-463D24FD8A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E62B481-2627-430E-85F3-463D24FD8A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E62B481-2627-430E-85F3-463D24FD8A09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
